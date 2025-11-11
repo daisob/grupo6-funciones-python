@@ -1,6 +1,6 @@
 
 #tests/test_restar.py
-from funciones.restar import restar
+from funciones.restaheredia import restar
 
 def test_restar():
  assert restar(10, 4) == 6
