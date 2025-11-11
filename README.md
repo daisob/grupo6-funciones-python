@@ -1,1 +1,0 @@
-# grupo6-funciones-python
